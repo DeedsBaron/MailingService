@@ -1,0 +1,12 @@
+bind_addr = ":8080"
+log_level = "debug"
+token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NzkwNjMwNjgsImlzcyI6ImZhYnJpcXVlIiwibmFtZSI6IkVnb3IifQ.Ns0At0MuQyUqNpeZk5qbxdhjzKC5QQ_NVLnhoqvQxc0"
+requestfreq = 500
+sendmessagetimeout = 2500
+[storage]
+    host = "postgresql"
+    port = "5432"
+    database = "spam"
+    username = "deedsbaron"
+    password = "0809"
+    attempts2con = 5
