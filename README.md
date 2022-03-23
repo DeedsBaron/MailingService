@@ -10,7 +10,7 @@ https://app.swaggerhub.com/apis-docs/DeedsBaron/MailingListService/1.0.0
 # Схема базы данных
 ![image](https://user-images.githubusercontent.com/80648065/159508544-f96f401e-4c8f-4db1-86c7-3ed113ce4ccd.png)
 # Usage
-По умолчанию собирается бинарный файл сервиса
+По умолчанию собирается и запускается бинарный файл сервиса НЕ в контейнере
 
     make
 
